@@ -1,16 +1,51 @@
-## Hi there 👋
+## Hi, I'm Roman 👋
 
-<!--
-**tararonis/tararonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Master's student at the Higher School of Economics (HSE), currently in my second year, specializing in **Machine Learning and High-Load Systems**. Alongside my studies, I serve as a program coordinator and teaching assistant for math and machine learning courses at the Faculty of Computer Science.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages & Frameworks:**
+  - Python 3 (Flask, FastAPI)
+  
+- **Databases:**
+  - SQL (PostgreSQL)
+  - NoSQL (MongoDB, ElasticSearch)
+  
+- **Message Queues:**
+  - Kafka, RabbitMQ
+  
+- **In-Memory Databases:**
+  - Redis
+  
+- **Containerization:**
+  - Docker, Docker-Compose
+  
+- **CI/CD:**
+  - GitHub Actions, GitLab, TeamCity
+  
+- **MLOps:**
+  - MLflow, Airflow
+
+## Machine Learning & Data Science Expertise
+
+- Machine Learning
+- A/B Testing
+- Statistics
+- Deep Learning
+- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Time Series Analysis
+
+## Other Experiences
+
+- **Languages:**
+  - Proficient in English (Upper-Intermediate): Daily communication with clients, representation at exhibitions.
+  
+- **Project Management:**
+  - Experienced in analyzing customer needs (custdev), translating business requirements into technical specifications.
+  - Skilled in planning, analyzing, and structuring information.
+  
+## Hobbies
+
+- I enjoy playing chess, reading extensively, and taking various competions or courses to expand my knowledge and skills.
+
